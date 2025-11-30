@@ -34,7 +34,7 @@ This tutorial guides you through creating a Django-based library management syst
 ## Installation
 
 ```bash
-git clone https://github.com/JeymsKun/library-link-django.git
+git clone https://github.com/Jemuzengchawpaw/library-link-django.git
 cd library-link-django
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
